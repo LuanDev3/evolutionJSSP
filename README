@@ -1,0 +1,9 @@
+# MODO DE EXECUÇÂO #
+
+O algoritmo desenvolvido segue o padrão proposto pelo professor
+de forma que a função JSSP, retorna os valores pedidos como realiza
+todas as funções. Os outros códigos são funções utilizadas por JSSP
+para realizar suas atividades e devem estar na pasta com a mesma.
+A função main apenas simula a chamada da função JSSP
+
+Dúvidas: luan_gnp@outlook.com

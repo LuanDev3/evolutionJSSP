@@ -3,4 +3,9 @@ clc;
 clear;
 close all;
   
-[a, b, c, d] = JSSP("test.txt");
+[makespan, sequence, avg_fit, best_fit] = JSSP("entrada_25.txt");
+
+best_fit;
+avg_fit;
+makespan
+sequence
